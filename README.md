@@ -1,2 +1,2 @@
 # eslint-fsd-paths-plugin
-A training plugin for testing absolute and relative paths across architectures.
+A plugin for checking relative paths within a single slice (except app, shared).
