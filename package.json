@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-eslint-fsd-paths-plugin",
+  "name": "eslint-fsd-paths-plugin",
   "version": "0.0.0",
   "description": "A training plugin for testing absolute and relative paths across architectures",
   "keywords": [
