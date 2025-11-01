@@ -1,7 +1,7 @@
 {
   "name": "eslint-fsd-paths-plugin",
-  "version": "0.0.1",
-  "description": "A training plugin for testing absolute and relative paths across architectures",
+  "version": "0.0.4",
+  "description": "Плагин для проверки относительных путей в рамках одного слайса (кроме app, shared)",
   "keywords": [
     "eslint",
     "eslintplugin",
