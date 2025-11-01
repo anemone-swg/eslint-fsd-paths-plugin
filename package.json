@@ -1,7 +1,7 @@
 {
   "name": "eslint-fsd-paths-plugin",
-  "version": "0.0.4",
-  "description": "Плагин для проверки относительных путей в рамках одного слайса (кроме app, shared)",
+  "version": "0.0.5",
+  "description": "A plugin for checking relative paths within a single slice (except app, shared)",
   "keywords": [
     "eslint",
     "eslintplugin",
