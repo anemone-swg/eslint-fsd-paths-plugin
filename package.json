@@ -2,6 +2,10 @@
   "name": "eslint-fsd-paths-plugin",
   "version": "0.0.6",
   "description": "A plugin for checking relative paths within a single slice (except app, shared)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anemone-swg/eslint-fsd-paths-plugin"
+  },
   "keywords": [
     "eslint",
     "eslintplugin",
